@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hennagt!
+- 👋 Hi, I’m @reenatoteixeira!
 - 👀 I’m interested in learning Python and other languages.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any project that I can/know how to.
