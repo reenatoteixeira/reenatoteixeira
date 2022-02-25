@@ -38,6 +38,6 @@
 ---
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
+  <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
+  <img width="420" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
 </div>
