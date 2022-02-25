@@ -16,7 +16,6 @@
 <a href="https://www.linkedin.com/in/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 ---
-
 ### Ferramentas e tecnologias do meu interesse:
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="35"/>
@@ -34,10 +33,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="40" height="35"/>
 </div>
-  
----
 
+---
 <div>
-  <img width="420" height="200" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
-  <img width="420" height="230" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
+  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
+  <img width="420" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
 </div>
