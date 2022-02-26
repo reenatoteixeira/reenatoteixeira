@@ -39,5 +39,3 @@
   <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
   <img width="420" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
 </div>
-
-  ![Snake animation](https://github.com/reenatoteixeira/reenatoteixeira/blob/output/github-contribution-grid-snake.svg)
