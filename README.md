@@ -1,5 +1,5 @@
-## Olá, eu sou o Renato!
-### Boas-vindas ao meu perfil do GitHub 👋🏻
+## Olá, eu sou o Renato! 👋🏻
+### Boas-vindas ao meu perfil do GitHub
 * Tenho 23 anos e moro no interior de São Paulo.
 * Estou graduando em Direito e pós-graduando em Segurança Pública e Direito Administrativo.
 * Em 2022 comecei a estudar programação com intuito de desenvolver soluções para problemas do cotidiano.
@@ -9,9 +9,9 @@
 ###### Minhas redes sociais:
 <a href="https://instagram.com/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/renatoteixeeira/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-<a href = "mailto:renato.gfteixeira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "mailto:renato.gfteixeira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 ---
 ### Ferramentas e tecnologias do meu interesse:
