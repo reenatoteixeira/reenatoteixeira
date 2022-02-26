@@ -1,6 +1,5 @@
-## Olá, me chamo Renato Teixeira!
+## Olá, eu sou o Renato!
 ### Boas-vindas ao meu perfil do GitHub 👋🏻
-
 * Tenho 23 anos e moro no interior de São Paulo.
 * Estou graduando em Direito e pós-graduando em Segurança Pública e Direito Administrativo.
 * Em 2022 comecei a estudar programação com intuito de desenvolver soluções para problemas do cotidiano.
@@ -8,7 +7,6 @@
 * Desejo um dia me tornar um desenvolvedor fullstack.
 
 ###### Minhas redes sociais:
-
 <a href="https://instagram.com/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/renatoteixeeira/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -28,16 +26,16 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" widht="40" height="35"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="40" height="35"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" widht="40" height="35"/>
 </div>
 
 ---
 <div>
-  <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
-  <img width="420" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
+  <img width="415" height="180" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
+  <img width="415" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
 </div>
 
 ![snake gif](https://github.com/reenatoteixeira/reenatoteixeira/blob/output/github-contribution-grid-snake.svg)
