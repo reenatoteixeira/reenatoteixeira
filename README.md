@@ -4,7 +4,6 @@
 * Estou graduando em Direito e pós-graduando em Segurança Pública e Direito Administrativo.
 * Em 2022 comecei a estudar programação com intuito de desenvolver soluções para problemas do cotidiano.
 * Atualmente estou estudando e me aprofundando em Python, mas também viso estudar outras ferramentas e tecnologias.
-* Desejo um dia me tornar um desenvolvedor fullstack.
 
 ###### Minhas redes sociais:
 <a href="https://instagram.com/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
