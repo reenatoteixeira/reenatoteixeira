@@ -32,9 +32,8 @@
 </div>
 
 ---
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact" />
-</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=reenatoteixeira&theme=react"/>
 
 ![snake gif](https://github.com/reenatoteixeira/reenatoteixeira/blob/output/github-contribution-grid-snake.svg)
