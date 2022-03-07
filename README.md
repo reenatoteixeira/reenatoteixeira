@@ -33,8 +33,8 @@
 
 ---
 <div>
-  <img width="415" height="180" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
-  <img width="415" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&layout=compact&theme=react&show_icons=true">
 </div>
 
 ![snake gif](https://github.com/reenatoteixeira/reenatoteixeira/blob/output/github-contribution-grid-snake.svg)
