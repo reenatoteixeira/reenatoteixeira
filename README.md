@@ -2,8 +2,7 @@
 ### Boas-vindas ao meu perfil do GitHub
 * Tenho 23 anos e moro no interior de São Paulo.
 * Estou graduando em Direito e pós-graduando em Segurança Pública e Direito Administrativo.
-* Em 2022 comecei a estudar programação com intuito de desenvolver soluções para problemas do cotidiano.
-* Atualmente estou estudando e me aprofundando em Python, mas também viso estudar outras ferramentas e tecnologias.
+* Em 2022 comecei a estudar programação com intuito de desenvolver soluções para problemas do cotidiano e desenvolver uma carreira na área.
 
 ###### Minhas redes sociais:
 <a href="https://instagram.com/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
