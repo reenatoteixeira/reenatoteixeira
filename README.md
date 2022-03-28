@@ -27,7 +27,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" widht="40" height="35"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" widht="40" height="35"/>
 </div>
 
 ---
