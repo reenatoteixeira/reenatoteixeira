@@ -1,8 +1,8 @@
 ## Olá, eu sou o Renato! 👋🏻
 ### Boas-vindas ao meu perfil do GitHub
 * Tenho 23 anos e moro no interior de São Paulo.
-* Estou graduando em Direito e pós-graduando em Segurança Pública e Direito Administrativo.
-* Em 2022 comecei a estudar programação com intuito de desenvolver uma carreira na área.
+* Sou bacharel em Direito e estou pós-graduando em Segurança Pública e Direito Administrativo.
+* Em 2022 comecei a estudar tecnologia com intuito de desenvolver uma carreira na área.
 
 ###### Minhas redes sociais:
 <a href="https://instagram.com/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
