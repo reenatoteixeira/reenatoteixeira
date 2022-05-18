@@ -1,4 +1,4 @@
-## Hello, world! I'm Renato! 👋🏻
+## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
 * I'm  a 24 years old bachelor of Laws, graduate student in Public Security and Administrative Law. I'm currently studying Information Systems, seeking knowledge to be able to act as a software quality analyst and software developer.
 
