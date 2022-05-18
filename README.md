@@ -1,15 +1,15 @@
-## Olá, eu sou o Renato! 👋🏻
-### Boas-vindas ao meu perfil do GitHub
-* Tenho 24 anos, sou do interior de São Paulo, bacharel em Direito, pós-graduando em Segurança Pública e Direito Administrativo e estou cursando Sistemas da Informação, estudando para desenvolver uma carreira na área de tecnologia como analista de qualidade, teste e desenvolvimento de software.
+## Hello, world! I'm Renato! 👋🏻
+### Welcome to my GitHub profile
+* I'm  a 24 years old bachelor of Laws, graduate student in Public Security and Administrative Law. I'm currently studying Information Systems, seeking knowledge to be able to act as a software quality analyst and software developer.
 
-###### Minhas redes sociais:
+###### Social media:
 <a href="https://instagram.com/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.facebook.com/renatoteixeeira/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 ---
-### Ferramentas e tecnologias do meu interesse:
+### Tools and technologies that i'm interested in:
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="35"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="35"/>
