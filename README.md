@@ -1,6 +1,6 @@
 ## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
-* I'm  a 24 years old software QA tester, bachelor of Laws, Public Security and Administrative Law specialist. I'm currently studying Information Systems, seeking knowledge to develop a carrer as a software quality analyst or software developer.
+I'm  a 24 years old software QA tester, bachelor of Laws, Public Security and Administrative Law specialist. I'm currently studying Information Systems, seeking knowledge to develop a carrer as a software quality analyst or software developer.
 
 ###### Social media:
 <a href="https://instagram.com/reenatoteixeira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
