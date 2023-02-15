@@ -29,8 +29,8 @@ I'm  a 24 years old Business Analyst, bachelor of Laws, Public Security and Admi
 
 ---
 <div>
- <img width="45%" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800"/>
- <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800"/>
+ <img width="44%" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800"/>
+ <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800"/>
 </div>
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=reenatoteixeira&theme=react&cache_seconds=1800"/>
 
