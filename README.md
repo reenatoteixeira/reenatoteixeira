@@ -1,6 +1,7 @@
 ## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
-I'm  a 25 years old Business Analyst, bachelor of Laws, Public Security and Administrative Law specialist. I'm currently studying Information Systems, seeking knowledge to develop a carrer in the tech area.
+I'm  a 25 years old Business Analyst, bachelor of Laws, Public Security and Administrative Law specialist.
+Currently studying Information Systems, seeking knowledge to develop a carrer in the tech area.
 
 ###### Social media:
 <a href="https://instagram.com/reenatoteixeira" target="_blank">
