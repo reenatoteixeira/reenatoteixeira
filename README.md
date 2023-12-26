@@ -41,6 +41,3 @@ Currently studying Information Systems, seeking knowledge to develop a carrer in
  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800"/>
 </div>
 <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=reenatoteixeira&theme=react&cache_seconds=1800"/>
-
-
-![snake gif](https://github.com/reenatoteixeira/reenatoteixeira/blob/output/github-contribution-grid-snake.svg)
