@@ -1,23 +1,18 @@
 ## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
-I'm  a 25 years old Business Analyst, bachelor of Laws, Public Security and Administrative Law specialist.
-Currently studying Information Systems, seeking knowledge to develop a career in the tech area.
+I'm a tech student who doesn't like coffee. Working with a dev team as a Business Analyst, seeking knowledge to develop a career in the tech area as a fullstack web developer.
 
-###### Social media:
-<a href="https://instagram.com/reenatoteixeira" target="_blank">
- <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://www.facebook.com/renatoteixeeira/" target="_blank">
- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/reenatoteixeira" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://www.twitch.tv/reenatoteixeira" target="_blank">
- <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-</a>
+###### Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reenatoteixeira)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/392865605495029765)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/reenatoteixeira)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/reenatoteixeira)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/renatoteixeeira)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reenato_q)
+[![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/reenatoteixeira)
 
 ---
+
 <div>
  <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800"/>
  <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800"/>
