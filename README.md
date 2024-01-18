@@ -11,9 +11,18 @@ I'm a tech student who doesn't like coffee. Working with a dev team as a Busines
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reenato_q)
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/reenatoteixeira)
 
+#### Skills:
+<div>
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
 ---
 
 <div>
- <img width="47.5%" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800"/>
- <img width="42.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800"/>
+ <img height="220em" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800"/>
+ <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800"/>
 </div>
