@@ -1,6 +1,6 @@
 ## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
-I'm a tech student who doesn't like coffee. Working with a dev team as a Business Analyst, seeking knowledge to develop a career in the tech area as a fullstack web developer.
+Graduating in Information Systems, working with a dev team as a Business Analyst, I'm seeking knowledge to develop a career in the tech area as a fullstack web developer.
 
 ###### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reenatoteixeira)
