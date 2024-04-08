@@ -1,6 +1,6 @@
 ## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
-Graduating in Information Systems, working with a dev team as a Business Analyst, I'm seeking knowledge to develop a career in the tech area as a fullstack web developer.
+Graduating in Information Systems, working with a dev team as a Product Owner, I'm seeking knowledge to develop a career in the tech area as a full stack web developer. Here you'll find my coding stuff, personal study projects and some useless stuff from my journey to be a developer.
 
 ###### Socials:
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/reenatoteixeira)
@@ -11,16 +11,17 @@ Graduating in Information Systems, working with a dev team as a Business Analyst
 
 #### Skills:
 <div>
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+ <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />         
 </div>
 
 ---
 
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800" />
 </div>
