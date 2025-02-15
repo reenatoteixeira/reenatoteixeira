@@ -1,6 +1,6 @@
 ## Hello, world! 👋🏻
 ### Welcome to my GitHub profile
-Graduating in Information Systems, working with a dev team as a Product Owner, I'm seeking knowledge to develop a career in the tech area as a full stack web developer. Here you'll find my coding stuff, personal study projects and some useless stuff from my journey to be a developer.
+I'm a Product Owner with nearly 3 years of experience leading the development of digital products in the logistics and B2B e-commerce sectors. With strong skills in backlog management, agile methodologies, user stories, and technical diagrams, I bridge the gap between business and technology teams. Currently pursuing a degree in Information Systems and a postgraduate course in Software Engineering, I’m transitioning into full-stack development and aiming to specialize in software architecture, quality, and engineering. My long-term goal is to combine my product management experience with technical expertise to become a Tech Lead. Always open to sharing knowledge and connecting with others in tech!
 
 ###### Socials:
 [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/reenatoteixeira)
