@@ -1,52 +1,65 @@
-## Hello, world! 👋🏻  
-### Welcome to my GitHub profile  
+<!-- HEADER -->
+<h1 align="center">👋🏻 Hello, world! I'm Renato Teixeira</h1>
+<h3 align="center">Product Owner · Full-Stack Developer in Progress · Tech Enthusiast</h3>
 
-I'm a **Product Owner** with nearly **3 years of experience leading the development of digital products in the logistics and B2B e-commerce space**. My day-to-day involves translating business needs into **workable technical solutions**, owning the product backlog, writing user stories, and facilitating collaboration between stakeholders and development teams. This has helped me develop a strong sense of how to build **scalable**, **user-centered**, and **high-impact** software.
-
-But that’s not all — I'm currently transitioning into **full-stack web development**, blending my understanding of product strategy with practical technical expertise to become a well-rounded Tech Lead in the near future. I'm also graduating in **Information Systems** and pursuing a post-graduate degree in **Software Engineering**, further strengthening my ability to bridge the gap between business and technology.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-I specialize in **full-stack web development**, leveraging **JavaScript** and **TypeScript** to build scalable and maintainable applications. On the frontend, I work with **React**, **HTML**, **CSS**, and modern UI frameworks like **TailwindCSS** and **Bootstrap** for responsive design. My backend expertise includes **Node.js**, along with **SQL** and **NoSQL** databases such as **MySQL**, **MongoDB**, and **Firebase**. I also rely on **Git** for version control, ensuring efficient collaboration and code management.
-
-<div>
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="NodeJS" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" />
- <img height="40em" width="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/reenatoteixeira"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dev.to/reenatoteixeira"><img src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a href="https://twitter.com/reenatoteixeira"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/392865605495029765"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/reenatoteixeira"><img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+</p>
 
 ---
 
-### 🌍 Connect with Me  
+### 💬 About Me  
 
-I'm always interested in **new challenges** and opportunities to create amazing solutions. Whether you need a **full-stack developer** for your next project or want to **collaborate on something exciting**, I'd love to hear from you!
+I'm a **Product Owner** with nearly **3 years of experience** leading digital product development in **logistics** and **B2B e-commerce**.  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reenatoteixeira)
-[![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/reenatoteixeira)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/reenatoteixeira)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/392865605495029765)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/reenatoteixeira)
+I specialize in turning business challenges into **technical and strategic solutions**, managing product backlogs, writing user stories, and fostering collaboration between stakeholders and development teams.  
+
+Currently, I'm expanding my expertise in **full-stack web development**, combining my product background with hands-on coding to strengthen my technical foundation and **pursue a long-term path in technical leadership**.  
 
 ---
 
-### 📊 GitHub Stats  
+## 🎓 Education  
+- **B.Sc. in Information Systems**  
+- **Postgraduate in Software Engineering**
 
-<div>
+---
+
+## 🧠 Tech Stack & Core Skills  
+
+**Frontend:** React · TypeScript · JavaScript · HTML · CSS · TailwindCSS · Bootstrap · Vite  
+**Backend:** Node.js · Express · NPM  
+**Databases:** MySQL · PostgreSQL · MongoDB · Firebase · Supabase  
+**Testing & DevOps:** Jest · Postman · Docker  
+**Tools & Management:** Git · GitHub · Figma · Jira · WebStorm  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,vite,nodejs,express,npm,mysql,postgres,mongodb,firebase,supabase,jest,postman,docker,git,github,figma,webstorm&perline=12" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="left">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800" />
 </div>
 
 ---
 
-💡 Open to **collaboration** and **new opportunities**! Feel free to reach out if you'd like to work together or just chat about technology and career development.
+## 🌍 Let's Connect  
+
+I'm always open to **collaboration** and **new challenges**, whether it’s building something meaningful, learning from others, or mentoring along the way.  
+
+💬 Let’s talk about **web development, product strategy, or tech leadership**.  
+📩 Feel free to reach out through any platform above, I'm always happy to connect!
+
+---
+
+<p align="center">
+  <i>“Always building, learning, and sharing.” 🚀</i>
+</p>
