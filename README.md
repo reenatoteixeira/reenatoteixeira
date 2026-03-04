@@ -42,15 +42,6 @@ Currently, I'm expanding my expertise in **full-stack web development**, combini
 
 ---
 
-## 📊 GitHub Stats  
-
-<div align="left">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reenatoteixeira&theme=react&show_icons=true&cache_seconds=1800" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reenatoteixeira&theme=react&layout=compact&cache_seconds=1800" />
-</div>
-
----
-
 ## 🌍 Let's Connect  
 
 I'm always open to **collaboration** and **new challenges**, whether it’s building something meaningful, learning from others, or mentoring along the way.  
