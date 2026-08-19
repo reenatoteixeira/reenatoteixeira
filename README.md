@@ -1,6 +1,7 @@
 <!-- HEADER -->
+
 <h1 align="center">👋🏻 Hello, world! I'm Renato Teixeira</h1>
-<h3 align="center">Product Owner · Full-Stack Developer in Progress · Tech Enthusiast</h3>
+<h3 align="center">Product Owner · Business Analyst · Programmer by Hobby · Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reenatoteixeira"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -12,23 +13,26 @@
 
 ---
 
-### 💬 About Me  
+### 💬 About Me
 
-I'm a **Product Owner** with nearly **3 years of experience** leading digital product development in **logistics** and **B2B e-commerce**.  
+I'm a **Product Owner and Business Analyst** focused on turning business needs and user problems into **clear, feasible, and valuable product solutions**.
 
-I specialize in turning business challenges into **technical and strategic solutions**, managing product backlogs, writing user stories, and fostering collaboration between stakeholders and development teams.  
+My career in tech started in **Software Quality Assurance**, where I built a strong foundation in software development, testing, and product quality. Over time, my focus shifted from validating solutions to helping **define what should be built and why**, leading me into Business Analysis and Product.
 
-Currently, I'm expanding my expertise in **full-stack web development**, combining my product background with hands-on coding to strengthen my technical foundation and **pursue a long-term path in technical leadership**.  
+Today, I work closely with **stakeholders, engineering, and QA teams** throughout the product lifecycle, understanding problems, refining requirements, managing backlogs, writing user stories and acceptance criteria, supporting delivery, and making sure business goals and technical implementation remain aligned.
 
----
-
-## 🎓 Education  
-- **B.Sc. in Information Systems**  
-- **Postgraduate in Software Engineering**
+I also enjoy the technical side of software development. **Programming is a hobby** that allows me to experiment with ideas, build personal projects, learn new technologies, and stay close to the engineering challenges behind the products I work with.
 
 ---
 
-## 🧠 Tech Stack & Core Skills  
+## 🎓 Education
+
+* **B.Sc. in Information Systems**
+* **Postgraduate in Software Engineering**
+
+---
+
+## 🧠 Tech Stack & Core Skills
 
 **Frontend:** React · TypeScript · JavaScript · HTML · CSS · TailwindCSS · Bootstrap · Vite  
 **Backend:** Node.js · Express · NPM  
@@ -42,11 +46,11 @@ Currently, I'm expanding my expertise in **full-stack web development**, combini
 
 ---
 
-## 🌍 Let's Connect  
+## 🌍 Let's Connect
 
-I'm always open to **collaboration** and **new challenges**, whether it’s building something meaningful, learning from others, or mentoring along the way.  
+I'm always open to **collaboration, product discussions, and new challenges**, whether it's solving a complex product problem, exchanging ideas, building something useful, or learning from others.
 
-💬 Let’s talk about **web development, product strategy, or tech leadership**.  
+💬 Let’s talk about **product strategy, business analysis, software development, or technology**.  
 📩 Feel free to reach out through any platform above, I'm always happy to connect!
 
 ---
